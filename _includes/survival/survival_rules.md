@@ -11,7 +11,8 @@ Stalking / harassment of other players is not allowed.<br>
 If you box someone in on all sides so they cannot expand their res at all you may be asked to delete your claim.<br>
 
 ## Grinders, Hoppers, auto-clickers, auto farms
-Auto farms/grinders with spawners are Not allowed. Auto farms are allowed if there are No spawners involved. Do Not afk at them.<br>
+Auto farms/grinders with spawners are Not allowed. Auto farms are allowed if there are No spawners involved, letting these run while you are actively in or around your base is fine. Please turn them off when not in use to reduce lag.<br>
+No Afking at automatic machines for longer than 30 minutes. Afking there will lead to warning, tempbans and then permaban.<br>
 No Afk pools or methods that prevent you from being kicked. You may be tempbanned.<br>
 Auto-clickers are okay but you MUST be present at your computer. If you do not answer staff you may be kicked/warned.<br>
 0 tick farms are not allowed. <br>
